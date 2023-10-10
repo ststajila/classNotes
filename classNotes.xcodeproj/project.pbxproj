@@ -17,6 +17,8 @@
 		141EFECB2AD04E25000C8C1C /* classNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141EFECA2AD04E25000C8C1C /* classNotesTests.swift */; };
 		141EFED52AD04E25000C8C1C /* classNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141EFED42AD04E25000C8C1C /* classNotesUITests.swift */; };
 		141EFED72AD04E25000C8C1C /* classNotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141EFED62AD04E25000C8C1C /* classNotesUITestsLaunchTests.swift */; };
+		141EFEE42AD04F3E000C8C1C /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141EFEE32AD04F3E000C8C1C /* Student.swift */; };
+		144F9E392AD592CC00757C74 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144F9E382AD592CC00757C74 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		141EFED02AD04E25000C8C1C /* classNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = classNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		141EFED42AD04E25000C8C1C /* classNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classNotesUITests.swift; sourceTree = "<group>"; };
 		141EFED62AD04E25000C8C1C /* classNotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classNotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		141EFEE32AD04F3E000C8C1C /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		144F9E382AD592CC00757C74 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +108,8 @@
 				141EFEB02AD04E24000C8C1C /* AppDelegate.swift */,
 				141EFEB22AD04E24000C8C1C /* SceneDelegate.swift */,
 				141EFEB42AD04E24000C8C1C /* ViewController.swift */,
+				144F9E382AD592CC00757C74 /* ViewController2.swift */,
+				141EFEE32AD04F3E000C8C1C /* Student.swift */,
 				141EFEB62AD04E24000C8C1C /* Main.storyboard */,
 				141EFEBC2AD04E25000C8C1C /* Assets.xcassets */,
 				141EFEBE2AD04E25000C8C1C /* LaunchScreen.storyboard */,
@@ -264,7 +270,9 @@
 				141EFEB52AD04E24000C8C1C /* ViewController.swift in Sources */,
 				141EFEB12AD04E24000C8C1C /* AppDelegate.swift in Sources */,
 				141EFEBB2AD04E24000C8C1C /* classNotes.xcdatamodeld in Sources */,
+				141EFEE42AD04F3E000C8C1C /* Student.swift in Sources */,
 				141EFEB32AD04E24000C8C1C /* SceneDelegate.swift in Sources */,
+				144F9E392AD592CC00757C74 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
